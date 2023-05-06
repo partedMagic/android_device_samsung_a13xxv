@@ -7,3 +7,5 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+# Notes
+Unzip kernel.zip!
