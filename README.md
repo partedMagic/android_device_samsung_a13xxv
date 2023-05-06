@@ -1,4 +1,9 @@
+# This is a lineage device tree!
 # Android device tree for samsung SM-A135F (a13)
+## Vietnam "version"
+# Notes
+Unzip kernel.zip!
+
 
 ```
 #
@@ -7,5 +12,3 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-# Notes
-Unzip kernel.zip!
