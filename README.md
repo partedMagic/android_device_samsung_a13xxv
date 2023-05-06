@@ -1,4 +1,4 @@
-# ALineageOS device tree for samsung SM-A135F (a13)
+# LineageOS device tree for samsung SM-A135F (a13)
 ## Vietnam "version"
 # Notes
 Unzip kernel.zip
